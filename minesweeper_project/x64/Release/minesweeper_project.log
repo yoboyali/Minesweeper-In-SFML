@@ -1,0 +1,20 @@
+﻿  Game.cpp
+D:\minesweeper_project\minesweeper_project\Game.cpp(29,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\minesweeper_project\minesweeper_project\Game.cpp(141,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\minesweeper_project\minesweeper_project\Game.cpp(140,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\minesweeper_project\minesweeper_project\Game.cpp(146,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\minesweeper_project\minesweeper_project\Game.cpp(147,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\minesweeper_project\minesweeper_project\Game.cpp(155,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\minesweeper_project\minesweeper_project\Game.cpp(372,49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\minesweeper_project\minesweeper_project\Game.cpp(414,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\minesweeper_project\minesweeper_project\Game.cpp(409,2): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+D:\minesweeper_project\minesweeper_project\Game.cpp(435,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\minesweeper_project\minesweeper_project\Game.cpp(435,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\minesweeper_project\minesweeper_project\Game.cpp(438,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\minesweeper_project\minesweeper_project\Game.cpp(438,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 410 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  minesweeper_project.vcxproj -> D:\minesweeper_project\x64\Release\minesweeper_project.exe

@@ -1,0 +1,5 @@
+﻿  LeaderBoard.cpp
+G:\minesweeper project\minesweeper_project\minesweeper_project\LeaderBoard.cpp(177,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+G:\minesweeper project\minesweeper_project\minesweeper_project\LeaderBoard.cpp(196,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\minesweeper project\minesweeper_project\minesweeper_project\LeaderBoard.cpp(197,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  minesweeper_project.vcxproj -> G:\minesweeper project\minesweeper_project\x64\Debug\minesweeper_project.exe
